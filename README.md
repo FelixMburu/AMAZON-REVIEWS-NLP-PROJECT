@@ -1,4 +1,4 @@
-# PHASE-4-PROJECT-FINAL
+# AMAZON REVIEWS NLP PROJECT
 
 Sentiment-Analysis-on-Amazon-Reviews-Using-Natural-Language-Processing-and-Deep-Learning
 In this project, we used Natural Language Processing & Deep Learning models to Classify Amazon Reviews as either positive or negative.
